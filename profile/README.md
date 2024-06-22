@@ -9,3 +9,12 @@ UNKNOWN은 울산대학교 정보보안 동아리 학생들이 보안에 대해�
 <br/>
 
 ## Repository 소개 
+
+## 동아리 활동
+### WEB
+<img src="https://img.shields.io/badge/WEB-FF5733?style=for-the-badge&logo=html5&logoColor=white">
+### SYSTEM
+<img src="https://img.shields.io/badge/SYSTEM-007396?style=for-the-badge&logo=java&logoColor=white">
+### FORENSIC
+<img src="https://img.shields.io/badge/FORENSIC-4285F4?style=for-the-badge&logo=google&logoColor=white">
+
