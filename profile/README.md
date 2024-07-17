@@ -12,4 +12,7 @@ UNKNOWN은 울산대학교 정보보안 동아리 학생들이 보안에 대해�
 ### Personal-Project   
 개인이 진행 중/완료인 프로젝트를 모두가 참여할 수 있는 Repo    
 <br/>    
-###
+### assigment    
+과제를 제출하는 Repo    
+<br/>
+### 
