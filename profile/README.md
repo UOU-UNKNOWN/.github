@@ -15,4 +15,5 @@ UNKNOWN은 울산대학교 정보보안 동아리 학생들이 보안에 대해�
 ### assigment    
 과제를 제출하는 Repo    
 <br/>
-### 
+### git-practice    
+마음껏 fork, branch 분리, merge 등 다양한 깃허브 사용방법을 연습할 수 있는 Repo
